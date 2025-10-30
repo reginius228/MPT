@@ -1,0 +1,13 @@
+[project]
+name = "mpt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.uv.workspace]
+members = [
+    "games_project_Makarova",
+    "games_project_Makarova/VD_games",
+]
