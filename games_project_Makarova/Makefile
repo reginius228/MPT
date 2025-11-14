@@ -14,3 +14,6 @@ package-install:
 
 clean-dist:
 	rm -rf dist/
+lint:
+	uv run ruff check VD_games
+

@@ -7,7 +7,7 @@ from VD_games.cli import welcome_user
 
 def main():
 
-    user_name = welcome_user()
+    welcome_user()
 
 if __name__ == "__main__":
     main()
