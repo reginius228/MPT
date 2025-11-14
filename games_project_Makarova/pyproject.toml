@@ -23,6 +23,6 @@ dev = [
 VD-games = "VD_games.scripts.VD_games:main"
 VD-even = "VD_games.scripts.VD_even:play_game"
 Brain-calc = "VD_games.scripts.brain_calc:play_game"
-
+VD-gcd = "VD_games.scripts.VD_gcd:play_game"
 
 
